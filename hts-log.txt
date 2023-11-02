@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 01 Nov 2023 00:18:55 at https://website6025304.nicepage.io/?version=46bd19a1-6a8b-44e6-9ef3-0e4ce8afd41b +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://website6025304.nicepage.io/?version=46bd19a1-6a8b-44e6-9ef3-0e4ce8afd41b -O1 "C:\Users\X510U\Downloads\Doctor Appointment" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:19:18	Error: 	"Connect Error" (-4) after 2 retries at link https://website6025304.nicepage.io/robots.txt (from primary/primary)
+00:19:18	Warning: 	Retry after error -4 (Connect Error) at link https://website6025304.nicepage.io/?version=46bd19a1-6a8b-44e6-9ef3-0e4ce8afd41b (from primary/primary)
+00:19:36	Warning: 	Retry after error -4 (Connect Error) at link https://website6025304.nicepage.io/?version=46bd19a1-6a8b-44e6-9ef3-0e4ce8afd41b (from primary/primary)
+00:20:00	Error: 	"Not Found" (404) at link https://website6025304.nicepage.io/Content/BundledScripts/ (from capp.nicepage.com/b437363a3279afd6e043c8524ffb06340d893ddb/nicepage.js)
+00:20:00	Error: 	"Not Found" (404) at link https://website6025304.nicepage.io/signature.png (from capp.nicepage.com/b437363a3279afd6e043c8524ffb06340d893ddb/nicepage.js)
+00:20:01	Error: 	"Not Found" (404) at link https://website6025304.nicepage.io/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from capp.nicepage.com/b437363a3279afd6e043c8524ffb06340d893ddb/nicepage.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 5 seconds : 17 links scanned, 11 files written (6011853 bytes overall) [3648622 bytes received at 56132 bytes/sec], 2732605 bytes transferred using HTTP compression in 10 files, ratio 12%, 1.0 requests per connection
+(4 errors, 2 warnings, 0 messages)
